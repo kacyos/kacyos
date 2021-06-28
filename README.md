@@ -49,11 +49,11 @@
    </ul>
    </br>
    <div align="center">
-      <a href="https://github.com/kacyos?tab=repositories">
+      <a href="https://github.com/kacyos?tab=repositories" target="_blank">
       <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px"
          height="48px" />
       </a>
-      <a href="https://www.linkedin.com/in/cacio/">
+      <a href="https://www.linkedin.com/in/cacio/" target="_blank">
       <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" />
       </a>
    </div>
