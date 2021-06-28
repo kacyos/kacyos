@@ -26,10 +26,7 @@
          alt="nodejs" width="45" height="45" />
       <img left="10px"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-         alt="mongodb" width="45" height="45" />
-      <img left="10px"
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-         alt="express" width="45" height="45" />
+         alt="mongodb" width="45" height="45" />      
       <img left="10px"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
          alt="typescript" width="45" height="45" />
