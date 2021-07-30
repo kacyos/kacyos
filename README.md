@@ -60,6 +60,6 @@
    </div>
    </br>
    <div align="center">
-      <img margin="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacyos" />    
+      <img margin="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacyos&layout=compact&theme=radical" />    
    </div>
 </div>
