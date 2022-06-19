@@ -62,11 +62,17 @@
       </a>
    </div>   
    </br></br>
+   
    <div>
+   <center>
       <img src="https://github-readme-stats.vercel.app/api?username=kacyos&show_icons=true&theme=radical" />
+      </center>
    &nbsp &nbsp &nbsp &nbsp
+    <center>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacyos&layout=compact&theme=radical" />
+   </center>
    </div>
+   
    </br>
    
 </div>
