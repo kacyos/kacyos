@@ -34,7 +34,7 @@
          alt="mongodb" width="45" height="45" />
    &nbsp
       <img left="10px"
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
          alt="C-Sharp" width="45" height="45" />
   &nbsp
       <img
